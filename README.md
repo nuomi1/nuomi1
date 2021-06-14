@@ -6,6 +6,6 @@ Swift with iOS。
 
 ## GitHub Stats
 
-![nuomi1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuomi1&show_icons=true)
+![nuomi1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuomi1&show_icons=true&layout=compact)
 
-![nuomi1's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuomi1&hide=html,css,javascript)
+![nuomi1's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuomi1&exclude_repo=nuomi1.github.io&&layout=compact)
